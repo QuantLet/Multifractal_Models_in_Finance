@@ -1,0 +1,27 @@
+Name of Quantlet: 'GenHurstExp'
+
+Published in: 'Multifractal_Models_in_Finance'
+
+Description: 'Generates plot of the generalized Hurst exponent of daily closing price data of BTC, ETH, and XRP'
+
+Submitted: '05 Mar 2023'
+
+Keywords:
+- 'Multifractal'
+- 'Hurst'
+- 'Scaling'
+- 'Cryptocurrency'
+- 'Bitcoin'
+- 'Ether'
+- 'Ripple'
+
+Datafile: 
+- 'BTC-USD.csv'
+- 'ETH-USD.csv'
+- "XRP-USD.csv'
+
+Output:
+- 'GenHurstExp.png'
+
+Author:
+- 'David Alexander Behrens'
