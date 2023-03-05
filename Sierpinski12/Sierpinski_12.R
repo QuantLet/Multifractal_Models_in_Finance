@@ -1,0 +1,6 @@
+library("spt")
+t= st(60, 60)
+setwd("")
+jpeg(file="sierpinski_12.jpeg")
+plot(t, iter=12, main="Iteration 12")
+dev.off()
