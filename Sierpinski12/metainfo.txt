@@ -1,4 +1,4 @@
-Name of Quantlet: 'Sierpinski12'
+Name of Quantlet: 'Sierpinski_12'
 
 Published in: 'Multifractal_Models_in_Finance'
 
