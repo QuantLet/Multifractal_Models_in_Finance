@@ -14,22 +14,22 @@ Submitted: 05 Mar 2023
 Description: Generates figures corresponding to the first six iterations of the Sierpinski triangle
 
 Keywords: 
-- 'Fractals
-- 'Multifractal
-- 'Sierpinski
-- 'Geometry
-- 'Scaling
+- Fractals
+- Multifractal
+- Sierpinski
+- Geometry
+- Scaling
 
 Output: 
-- "sierpinski 1.jpeg
-- "sierpinski 2.jpeg
-- "sierpinski 3.jpeg
-- "sierpinski 4.jpeg
-- "sierpinski 5.jpeg
-- "sierpinski 6.jpeg
+- sierpinski 1.jpeg
+- sierpinski 2.jpeg
+- sierpinski 3.jpeg
+- sierpinski 4.jpeg
+- sierpinski 5.jpeg
+- sierpinski 6.jpeg
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
