@@ -14,18 +14,18 @@ Submitted: 05 Mar 2023
 Description: Generates two figures of the Mandelbrot set at different scales
 
 Keywords: 
-- 'Fractals
-- 'Mandelbrot set
-- 'Multifractal
-- 'Geometry
-- 'Scaling
+- Fractals
+- Mandelbrot set
+- Multifractal
+- Geometry
+- Scaling
 
 Output: 
-- "Mandelbrot_set.png
-- "Mandelbrot_set_zoomed_in.png
+- Mandelbrot_set.png
+- Mandelbrot_set_zoomed_in.png
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
