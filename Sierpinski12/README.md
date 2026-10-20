@@ -14,17 +14,17 @@ Submitted: 05 Mar 2023
 Description: Generates a figure corresponding to the 12th iteration of the Sierpinski triangle
 
 Keywords: 
-- 'Fractals
-- 'Multifractal
-- 'Sierpinski
-- 'Geometry
-- 'Scaling
+- Fractals
+- Multifractal
+- Sierpinski
+- Geometry
+- Scaling
 
 Output: 
-- "sierpinski_12.jpeg
+- sierpinski_12.jpeg
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
