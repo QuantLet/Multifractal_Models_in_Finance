@@ -14,17 +14,17 @@ Submitted: 07 Mar 2023
 Description: Generates a plot of daily BTC returns from 2012 to 2023
 
 Keywords: 
-- 'Bitcoin
-- 'Cryptocurrencies
-- 'Returns
-- 'Time Series
-- 'Finance
+- Bitcoin
+- Cryptocurrencies
+- Returns
+- Time Series
+- Finance
 
 Output: 
-- "BTC_returns.jpeg
+- BTC_returns.jpeg
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
