@@ -14,24 +14,24 @@ Description: Generates plot of the generalized Hurst exponent of daily closing p
 Submitted: 05 Mar 2023
 
 Keywords: 
-- 'Multifractal
-- 'Hurst
-- 'Scaling
-- 'Cryptocurrency
-- 'Bitcoin
-- 'Ether
-- 'Ripple
+- Multifractal
+- Hurst
+- Scaling
+- Cryptocurrency
+- Bitcoin
+- Ether
+- Ripple
 
 Datafile: 
-- 'BTC-USD.csv
-- 'ETH-USD.csv
-- "XRP-USD.csv
+- BTC-USD.csv
+- ETH-USD.csv
+- XRP-USD.csv'
 
 Output: 
-- 'GenHurstExp.png
+- GenHurstExp.png
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
