@@ -14,18 +14,18 @@ Submitted: 07 Mar 2023
 Description: Generates plots of ACF of BTC absolute returns and squared returns
 
 Keywords: 
-- 'Bitcoin
-- 'Cryptocurrencies
-- 'Returns
-- 'Time Series
-- 'ACF
+- Bitcoin
+- Cryptocurrencies
+- Returns
+- Time Series
+- ACF
 
 Output: 
-- "acf_abs.jpeg
-- "acf_squ.jpeg
+- acf_abs.jpeg
+- acf_squ.jpeg
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
